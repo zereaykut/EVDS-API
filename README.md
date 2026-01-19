@@ -5,7 +5,7 @@ For more information: https://evds2.tcmb.gov.tr/help/videos/EVDS_Web_Servis_Kull
 ## How to Use
 Clone the repo
 ```shell
-git clone https://github.com/zereaykut/EVDS-API
+git clone https://github.com/zereaykut/EVDS-API.git
 cd EVDS-API
 ```
 
